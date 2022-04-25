@@ -1,1 +1,6 @@
 # Project_guess_the_number
+
+## Project on C++
+### THE PROGRAM 'GUESS THE NUMBER'.
+### THE PROGRAM WILL GUESS A NUMBER FROM 1 TO 10.
+### YOU HAVE TO GUESS THIS NUMBER.
